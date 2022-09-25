@@ -7,7 +7,7 @@ Features
 --------
   - Touchpad made of wood for some reason
   - Black and white screen
-  - Battery emulation
+  - Useless battery emulation
   - dshghufgskfuhgekjh
 
 How to use
