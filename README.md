@@ -1,7 +1,8 @@
-IDEKWIT
+[IDEKWIT](https://mathr.itch.io/idekwit)
 =======
 
-#### A weird fantasy console for the Make A Console Jam.
+#### A weird fantasy console for the [Make A Console Jam](https://itch.io/jam/make-a-console-jam).
+IDEKWIT means I Don't Even Know What Is This
 
 Features
 --------
@@ -9,6 +10,7 @@ Features
   - Black and white screen
   - Useless battery emulation
   - Bad code
+  - Cartridges compatible with: Gun
   - dshghufgskfuhgekjh
 
 How to use
