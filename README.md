@@ -8,6 +8,7 @@ Features
   - Touchpad made of wood for some reason
   - Black and white screen
   - Useless battery emulation
+  - Bad code
   - dshghufgskfuhgekjh
 
 How to use
