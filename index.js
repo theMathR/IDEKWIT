@@ -380,7 +380,7 @@ function get_collisions(id) {
 	Object.entries(new_screen_data).forEach((x) => {
 		if (x[0] == id) return
 		var r2 = x[1]
-		if (r[0] + r[2] >= r2[0] && r[0] <= r2[0] + r2[2] && r[1] + r[3] >= r2[1] && r[1] <= r2[1] + r2[3]) collisions.push(x[0])
+		if (r[0] + r[2] >= r2[0] && r[0] <= r2[0] + r2[2] && r[1] + r[3] >= r2[1] && r[1] <= r2[1] + r2[3]) collisions.push(parseInt(x[0]))
 		
 	})
 	return collisions
