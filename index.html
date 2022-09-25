@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head> 
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>IDEKWIT: The weird fantasy console</title>
+  
+  <style>
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body, html {
+   height:100%;
+}
+
+#canvas {
+   position:absolute;
+}
+  </style>
+ </head>
+ 
+ <body ondragover="event.preventDefault()" ondrop="event.preventDefault();drop(event)" onresize="resizeCanvas()" onclick="onClick(event)" onmousedown="onMouseDown(event)" onmousemove="onMouseMove(event)">
+  <canvas id="canvas" onresize="resizeCanvas()">You shouldn't read this!</canvas>
+  <script src="index.js"></script>
+ </body>
+</html>
